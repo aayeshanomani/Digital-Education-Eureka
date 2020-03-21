@@ -2,7 +2,9 @@
 
 ## A Location Based Tutoring App
 
-![logo](eureka.png)
+<p align="center">
+  <img src="eureka.png">
+</p>
 
 ## Abstract
 
