@@ -6,3 +6,5 @@ Since, teachers cannot focus on each student individually, our mobile applicatio
 
 ## Tech Stack Involved
 The application is build completely with Android Studio and the modern language Kotlin. We used Google Firebase as our main authentication and database tool, storing user information, tutoring requests and offers, and user messages. We used the Google Maps API to accurately locate and display all students requesting assistance with their classes.
+
+## Working
